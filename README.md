@@ -1,2 +1,2 @@
 # simple-wallpaper-data
-demohinhnen
+HÌNH NỀN
