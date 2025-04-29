@@ -1,0 +1,40 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "name": "Thiên nhiên"
+    },
+    {
+      "id": 2,
+      "name": "Công nghệ"
+    },
+     {
+      "id": 3,
+      "name": "Động vật"
+    }
+    // Thêm các chủ đề khác nếu cần
+  ],
+  "wallpapers": [
+    {
+      "id": 101,
+      "themeId": 1,
+      "imageUrl": "https://github.com/snnmt.github.io/simple-wallpaper-data/images/nature/image1.jpg"
+    },
+    {
+      "id": 102,
+      "themeId": 1,
+      "imageUrl": "https://github.com/snnmt.github.io/simple-wallpaper-data/images/nature/image2.jpg"
+    },
+    {
+      "id": 201,
+      "themeId": 2,
+      "imageUrl": "https://github.com/snnmt.github.io/simple-wallpaper-data/images/tech/tech_image_A.png"
+    },
+     {
+      "id": 301,
+      "themeId": 3,
+      "imageUrl": "https://github.com/snnmt.github.io/simple-wallpaper-data/images/animals/animal_photo.jpg"
+    }
+    // Thêm các hình nền khác, đảm bảo themeId khớp với id của chủ đề tương ứng
+  ]
+}
