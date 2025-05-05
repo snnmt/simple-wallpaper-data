@@ -11,6 +11,18 @@
      {
       "id": 3,
       "name": "Động vật"
+    },
+    {
+      "id": 4,
+      "name": "Trừu tượng"
+    },
+    {
+      "id": 5,
+      "name": "Xe cộ"
+    },
+    {
+      "id": 6,
+      "name": "Ẩm thực"
     }
     // Thêm các chủ đề khác nếu cần
   ],
