@@ -1603,7 +1603,10 @@
     {
       "id": 701,
       "themeId": 7,
-      "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/live_thumbnails/image1.gif"
+      "thumbnailUrl": "https://snnmt.github.io/simple-wallpaper-data/images/live_thumbnails/image1.gif",
+      "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/live_thumbnails/image1.gif",
+      "liveWallpaperComponent": "com.example.wallpaperapp.MyInteractiveWallpaperService"
+
     }
   ]
 }
