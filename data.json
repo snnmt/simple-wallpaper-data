@@ -1606,7 +1606,13 @@
       "thumbnailUrl": "https://snnmt.github.io/simple-wallpaper-data/images/live_thumbnails/image1.gif",
       "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/live_thumbnails/image1.gif",
       "liveWallpaperComponent": "com.example.wallpaperapp.MyInteractiveWallpaperService"
-
+    },
+    {
+      "id": 702,
+      "themeId": 7,
+      "thumbnailUrl": "https://snnmt.github.io/simple-wallpaper-data/images/live_thumbnails/image2.gif",
+      "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/live_thumbnails/image2.gif",
+      "liveWallpaperComponent": "com.example.wallpaperapp.MyInteractiveWallpaperService"
     }
   ]
 }
