@@ -31,7 +31,7 @@
     {
       "id": 8,
       "name": "Fruits"
-    }
+    },{ "id": 9, "name": "Minimalism" }
   ],
   "wallpapers": [
     {
@@ -1667,6 +1667,26 @@
   { "id": 846, "themeId": 8, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/fruits/fruits47.jpg" },
   { "id": 847, "themeId": 8, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/fruits/fruits48.jpg" },
   { "id": 848, "themeId": 8, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/fruits/fruits49.jpg" },
-  { "id": 849, "themeId": 8, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/fruits/fruits50.jpg" }
+  { "id": 849, "themeId": 8, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/fruits/fruits50.jpg" },
+  { "id": 900, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism1.jpg" },
+  { "id": 901, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism2.jpg" },
+  { "id": 902, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism3.jpg" },
+  { "id": 903, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism4.jpg" },
+  { "id": 904, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism5.jpg" },
+  { "id": 905, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism6.jpg" },
+  { "id": 906, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism7.jpg" },
+  { "id": 907, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism8.jpg" },
+  { "id": 908, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism9.jpg" },
+  { "id": 909, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism10.jpg" },
+  { "id": 910, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism11.jpg" },
+  { "id": 911, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism12.jpg" },
+  { "id": 912, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism13.jpg" },
+  { "id": 913, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism14.jpg" },
+  { "id": 914, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism15.jpg" },
+  { "id": 915, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism16.jpg" },
+  { "id": 916, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism17.jpg" },
+  { "id": 917, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism18.jpg" },
+  { "id": 918, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism19.jpg" },
+  { "id": 919, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism20.jpg" }
     ]
 }
