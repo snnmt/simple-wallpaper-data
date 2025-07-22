@@ -31,7 +31,8 @@
     {
       "id": 8,
       "name": "Fruits"
-    },{ "id": 9, "name": "Minimalism" }
+    },{ "id": 9, "name": "Minimalism" },
+    { "id": 10, "name": "Flowers" }
   ],
   "wallpapers": [
     {
@@ -1687,6 +1688,26 @@
   { "id": 916, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism17.jpg" },
   { "id": 917, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism18.jpg" },
   { "id": 918, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism19.jpg" },
-  { "id": 919, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism20.jpg" }
+  { "id": 919, "themeId": 9, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/minimalism/minimalism20.jpg" },
+  { "id": 1000, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers1.jpg" },
+  { "id": 1001, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers2.jpg" },
+  { "id": 1002, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers3.jpg" },
+  { "id": 1003, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers4.jpg" },
+  { "id": 1004, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers5.jpg" },
+  { "id": 1005, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers6.jpg" },
+  { "id": 1006, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers7.jpg" },
+  { "id": 1007, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers8.jpg" },
+  { "id": 1008, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers9.jpg" },
+  { "id": 1009, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers10.jpg" },
+  { "id": 1010, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers11.jpg" },
+  { "id": 1011, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers12.jpg" },
+  { "id": 1012, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers13.jpg" },
+  { "id": 1013, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers14.jpg" },
+  { "id": 1014, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers15.jpg" },
+  { "id": 1015, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers16.jpg" },
+  { "id": 1016, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers17.jpg" },
+  { "id": 1017, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers18.jpg" },
+  { "id": 1018, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers19.jpg" },
+  { "id": 1019, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers20.jpg" }
     ]
 }
