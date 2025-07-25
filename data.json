@@ -33,7 +33,8 @@
       "name": "Fruits"
     },{ "id": 9, "name": "Minimalism" },
     { "id": 10, "name": "Flowers" },
-    { "id": 11, "name": "bien" }
+    { "id": 11, "name": "bien" },
+    { "id": 12, "name": "hoctap"}
   ],
   "wallpapers": [
     {
@@ -1730,7 +1731,24 @@
   { "id": 2017, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien18.jpg" },
   { "id": 2018, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien19.jpg" },
   { "id": 2019, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien20.jpg" },
-  { "id": 2020, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien21.jpg" }
+  { "id": 2020, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien21.jpg" },
+  { "id": 3000, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap1.jpg" },
+  { "id": 3001, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap2.jpg" },
+  { "id": 3002, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap3.jpg" },
+  { "id": 3003, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap4.jpg" },
+  { "id": 3004, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap5.jpg" },
+  { "id": 3005, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap6.jpg" },
+  { "id": 3006, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap7.jpg" },
+  { "id": 3007, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap8.jpg" },
+  { "id": 3008, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap9.jpg" },
+  { "id": 3009, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap10.jpg" },
+  { "id": 3010, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap11.jpg" },
+  { "id": 3011, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap12.jpg" },
+  { "id": 3012, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap13.jpg" },
+  { "id": 3013, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap14.jpg" },
+  { "id": 3014, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap15.jpg" },
+  { "id": 3015, "themeId": 12, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/hoctap/hoctap15.jpg" }
+
 
     ]
 }
