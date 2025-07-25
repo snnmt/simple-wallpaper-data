@@ -32,7 +32,8 @@
       "id": 8,
       "name": "Fruits"
     },{ "id": 9, "name": "Minimalism" },
-    { "id": 10, "name": "Flowers" }
+    { "id": 10, "name": "Flowers" },
+    { "id": 11, "name": "bien" }
   ],
   "wallpapers": [
     {
@@ -1708,6 +1709,28 @@
   { "id": 1016, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers17.jpg" },
   { "id": 1017, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers18.jpg" },
   { "id": 1018, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers19.jpg" },
-  { "id": 1019, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers20.jpg" }
+  { "id": 1019, "themeId": 10, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/flowers/flowers20.jpg" },
+  { "id": 2000, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien1.jpg" },
+  { "id": 2001, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien2.jpg" },
+  { "id": 2002, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien3.jpg" },
+  { "id": 2003, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien4.jpg" },
+  { "id": 2004, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien5.jpg" },
+  { "id": 2005, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien6.jpg" },
+  { "id": 2006, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien7.jpg" },
+  { "id": 2007, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien8.jpg" },
+  { "id": 2008, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien9.jpg" },
+  { "id": 2009, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien10.jpg" },
+  { "id": 2010, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien11.jpg" },
+  { "id": 2011, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien12.jpg" },
+  { "id": 2012, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien13.jpg" },
+  { "id": 2013, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien14.jpg" },
+  { "id": 2014, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien15.jpg" },
+  { "id": 2015, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien16.jpg" },
+  { "id": 2016, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien17.jpg" },
+  { "id": 2017, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien18.jpg" },
+  { "id": 2018, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien19.jpg" },
+  { "id": 2019, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien20.jpg" },
+  { "id": 2020, "themeId": 11, "imageUrl": "https://snnmt.github.io/simple-wallpaper-data/images/bien/bien21.jpg" }
+
     ]
 }
